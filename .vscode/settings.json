@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "tranphuongtruc",
+        "projectKey": "tranphuongtruc_QUERIES_ABOUT_PDF_FILES_USING_LLM_WITH_RAG"
+    }
+}
